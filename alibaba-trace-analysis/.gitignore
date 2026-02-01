@@ -23,9 +23,9 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-# Results
-results/*
-!results/.gitkeep
+# # Results
+# results/*
+# !results/.gitkeep
 
 # Models
 models/*
